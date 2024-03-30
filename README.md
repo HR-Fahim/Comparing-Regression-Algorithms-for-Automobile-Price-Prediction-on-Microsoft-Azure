@@ -40,7 +40,7 @@ This project goes beyond simply training a model. It provides hands-on experienc
 * **Model Evaluation and Interpretation:** Evaluated the performance of the trained model using relevant metrics like MSE or R-squared. Analyzing these metrics helps assess the model's accuracy and effectiveness in predicting automobile prices. Here also explored techniques to interpret the model's behavior and identify factors that significantly influence automobile prices.
 * **Model Registration and Reusability:** Registered the trained model, making it reusable for future deployments in web services or other applications. This allows to easily integrate the model into various scenarios without retraining it from scratch.
 
-**Further Exploration**
+## Further Exploration
 
 This project serves as a springboard for further exploration in the realm of Azure Machine Learning:
 
