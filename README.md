@@ -22,7 +22,7 @@ This folder contains a series of screenshots captured throughout the practical s
 
 ![Evaluated Model Metrics](Images/evaluated_model_metrics.png)
 
-Second Screenshot captures the successful completion of the training job named `"train-regression-designer"`, indicating that the model training process has finished. 
+The second Screenshot captures the successful completion of the training job named `"train-regression-designer"`, indicating that the model training process has finished. 
 
 ![Evaluated Model Overview](Images/evaluated_model_overview.png) 
 
