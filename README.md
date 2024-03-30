@@ -14,7 +14,7 @@ This folder contains a series of screenshots captured throughout the practical s
 
 ![Evaluated Model Metrics](Images/evaluated_model_metrics.png)
 
-- **Experiment Configuration:** This screenshot depicts the meticulous configuration of the training experiment. As named it  `"Regression - Automobile Price Prediction (Compare algorithms)"` to reflect the goal of comparing different regression models to identify the one that yields the most accurate price predictions. The screenshot also highlights the chosen compute target (e.g., Azure Machine Learning compute cluster), which provides the necessary computational resources for training the model efficiently. 
+- **Experiment Configuration:** This screenshot depicts the meticulous configuration of the training experiment. As named it  `"Regression - Automobile Price Prediction (Compare algorithms)"` to reflect the goal of comparing different regression models to identify the one that yields the most accurate price predictions. The screenshot also highlights the chosen compute target, which provides the necessary computational resources for training the model efficiently. 
 
 ![Evaluated Model Outputs and Logs](Images/evaluated_model_outputs_and_logs.png)
 
