@@ -12,7 +12,7 @@ This folder contains a series of screenshots captured throughout the practical s
 
 - **Dataset Exploration:**  This screenshot demonstrates the exploration of datasets available in the workspace. Here delved into details  like data descriptions, formats, and potentially visualize data distributions to gain a thorough understanding of the data used for model training. This understanding is crucial for selecting appropriate features and pre-processing techniques. 
 
-![Evaluated Model Metrics](Images/evaluated_model_metrics.png)
+![Regression Model Pipelines](Images/regression_model_pipelines.png)
 
 - **Experiment Configuration:** This screenshot depicts the meticulous configuration of the training experiment. As named it  `"Regression - Automobile Price Prediction (Compare algorithms)"` to reflect the goal of comparing different regression models to identify the one that yields the most accurate price predictions. The screenshot also highlights the chosen compute target, which provides the necessary computational resources for training the model efficiently. 
 
@@ -20,7 +20,7 @@ This folder contains a series of screenshots captured throughout the practical s
 
 - **Model Training and Evaluation:** This combined view showcases the training and evaluation stages. First screenshot displays the evaluation of the trained model using two relevant metrics. These metrics are of Mean Squared Error (MSE) and R-squared, which provide insights into how well the model's predictions match the actual automobile prices. Second Screenshot captures the successful completion of the training job named `"train-regression-designer"`, indicating that the model training process has finished. 
 
-![Regression Model Pipelines](Images/regression_model_pipelines.png)
+![Evaluated Model Metrics](Images/evaluated_model_metrics.png)
 
 ![Evaluated Model Overview](Images/evaluated_model_overview.png) 
 
