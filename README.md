@@ -10,7 +10,7 @@ This folder contains a series of screenshots captured throughout the practical s
 
 ![Compute Instances](Images/compute_instances.png)
 
-- **Dataset Exploration:**  This screenshot demonstrates the exploration of datasets available in the workspace. here can be delved into details  like data descriptions, formats, and potentially visualize data distributions to gain a thorough understanding of the data used for model training. This understanding is crucial for selecting appropriate features and pre-processing techniques. 
+- **Dataset Exploration:**  This screenshot demonstrates the exploration of datasets available in the workspace. Here delved into details  like data descriptions, formats, and potentially visualize data distributions to gain a thorough understanding of the data used for model training. This understanding is crucial for selecting appropriate features and pre-processing techniques. 
 
 ![Evaluated Model Metrics](Images/evaluated_model_metrics.png)
 
