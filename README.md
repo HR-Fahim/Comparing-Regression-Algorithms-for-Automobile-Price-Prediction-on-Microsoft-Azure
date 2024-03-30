@@ -20,9 +20,10 @@ This folder contains a series of screenshots captured throughout the practical s
 
 - **Model Training and Evaluation:** This combined view showcases the training and evaluation stages. First screenshot displays the evaluation of the trained model using two relevant metrics. These metrics are of Mean Squared Error (MSE) and R-squared, which provide insights into how well the model's predictions match the actual automobile prices. Second Screenshot captures the successful completion of the training job named `"train-regression-designer"`, indicating that the model training process has finished. 
 
+![Regression Model Pipelines](Images/regression_model_pipelines.png)
+
 ![Evaluated Model Overview](Images/evaluated_model_overview.png) 
 
-![Regression Model Pipelines](Images/regression_model_pipelines.png)
 - **Model Registration:** This screenshot demonstrates registering the trained model named `"regression-auto-price-prediction-multi-algo-compare"` (version 1) for future use. Registering the model allows to easily deploy it in various scenarios, such as web services or mobile applications, for real-world price estimations. 
 
 ![Pipeline Job Overview](Images/pipeline_job_overview.png)
