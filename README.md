@@ -18,9 +18,11 @@ This folder contains a series of screenshots captured throughout the practical s
 
 ![Evaluated Model Outputs and Logs](Images/evaluated_model_outputs_and_logs.png)
 
-- **Model Training and Evaluation:** This combined view showcases the training and evaluation stages. First screenshot displays the evaluation of the trained model using two relevant metrics. These metrics are of Mean Squared Error (MSE) and R-squared, which provide insights into how well the model's predictions match the actual automobile prices. Second Screenshot captures the successful completion of the training job named `"train-regression-designer"`, indicating that the model training process has finished. 
+- **Model Training and Evaluation:** This combined view showcases the training and evaluation stages. First screenshot displays the evaluation of the trained model using two relevant metrics. These metrics are of Mean Squared Error (MSE) and R-squared, which provide insights into how well the model's predictions match the actual automobile prices. 
 
 ![Evaluated Model Metrics](Images/evaluated_model_metrics.png)
+
+Second Screenshot captures the successful completion of the training job named `"train-regression-designer"`, indicating that the model training process has finished. 
 
 ![Evaluated Model Overview](Images/evaluated_model_overview.png) 
 
