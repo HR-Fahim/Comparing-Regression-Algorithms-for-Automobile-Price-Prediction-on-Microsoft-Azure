@@ -1,1 +1,1 @@
-# Comparing-Regression-Algorithms-for-Automobile-Price-Prediction-on-Microsoft-Azure
+# Comparing-Regression-Algorithms-on-Microsoft-Azure
