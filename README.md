@@ -1,6 +1,6 @@
 # Comparing Regression Algorithms on Microsoft Azure
 
-This project offers a comprehensive exploration of the Azure Machine Learning workspace, culminating in the development, training, and evaluation of a robust regression model for predicting **Automobile Prices**. 
+This project offers a comprehensive exploration of the Azure Machine Learning workspace, culminating in the development, training, and evaluation of a **Boosted Decision Tree Regression** model for predicting **Automobile Prices**. 
 
 ## Visualizing the Workflow
 
