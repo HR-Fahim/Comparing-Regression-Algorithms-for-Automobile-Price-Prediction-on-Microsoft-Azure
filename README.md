@@ -2,7 +2,7 @@
 
 This project offers a comprehensive exploration of the Azure Machine Learning workspace, culminating in the development, training, and evaluation of a robust regression model for predicting automobile prices. 
 
-**Visualizing the Workflow**
+## Visualizing the Workflow
 
 This folder contains a series of screenshots captured throughout the practical session. These screenshots detail the following:
 
@@ -27,7 +27,7 @@ This folder contains a series of screenshots captured throughout the practical s
 
 ![Pipeline Job Overview](Images/pipeline_job_overview.png)
 
-**Project Purpose and Insights**
+## Project Purpose and Insights
 
 This project goes beyond simply training a model. It provides hands-on experience with core functionalities of the Azure Machine Learning workspace, allowing to build a strong foundation for future machine learning endeavors:
 
@@ -37,12 +37,12 @@ This project goes beyond simply training a model. It provides hands-on experienc
 * **Data Exploration and Understanding:** By exploring the datasets within the workspace, gained valuable insights into the data used for training the regression model. This understanding is crucial for selecting appropriate features and pre-processing techniques that can significantly improve model performance.
 * **Meticulous Experiment Setup:** Configured a training experiment with a clear goal (comparing regression algorithms) and ensured the availability of necessary compute resources for efficient training. This meticulous setup helps to ensure that the experiment runs smoothly and produces reliable results.
 * **Regression Model Selection and Training:** Trained a regression model to predict automobile prices. Boosted Decision Tree Regression used here.
-* **Model Evaluation and Interpretation:** Evaluated the performance of the trained model using relevant metrics like MSE or R-squared. Analyzing these metrics helps assess the model's accuracy and effectiveness in predicting automobile prices. You might have also explored techniques to interpret the model's behavior and identify factors that significantly influence automobile prices.
-* **Model Registration and Reusability:** Registered the trained model, making it reusable for future deployments in web services or other applications. This allows you to easily integrate the model into various scenarios without retraining it from scratch.
+* **Model Evaluation and Interpretation:** Evaluated the performance of the trained model using relevant metrics like MSE or R-squared. Analyzing these metrics helps assess the model's accuracy and effectiveness in predicting automobile prices. Here also explored techniques to interpret the model's behavior and identify factors that significantly influence automobile prices.
+* **Model Registration and Reusability:** Registered the trained model, making it reusable for future deployments in web services or other applications. This allows to easily integrate the model into various scenarios without retraining it from scratch.
 
 **Further Exploration**
 
 This project serves as a springboard for further exploration in the realm of Azure Machine Learning:
 
-* **Experiment with Diverse Models:** Explore training different types of machine learning models (classification, clustering) to understand their suitability for various prediction tasks. Each model type has its strengths and weaknesses, and the optimal choice depends on the specific problem you're trying to solve.
-* **Data Pre-processing Techniques:** Implement data pre-processing techniques like data cleaning, normalization, or feature engineering to potentially improve the performance of your models. Pre-processing techniques can significantly enhance the quality
+* **Experiment with Diverse Models:** Explore training different types of machine learning models (classification, clustering) to understand their suitability for various prediction tasks. Each model type has its strengths and weaknesses, and the optimal choice depends on the specific problem that trying to solve.
+* **Data Pre-processing Techniques:** Implement data pre-processing techniques like data cleaning, normalization, or feature engineering to potentially improve the performance of specific models. Pre-processing techniques can significantly enhance the quality
